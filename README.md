@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Developer | Building practical, secure, and scalable web products</h3>
 
 <p align="center">
-  <a href="mailto:prathamshinde2137@gmail.com"><img src="https://img.shields.io/badge/Email-prathamshinde2137%40gmail.com-red?style=flat&logo=gmail" alt="Email Badge" /></a>
+  <a href="mailto:prathamshinde1005@gmail.com"><img src="https://img.shields.io/badge/Email-prathamshinde1005%40gmail.com-red?style=flat&logo=gmail" alt="Email Badge" /></a>
   <a href="https://www.linkedin.com/in/pshinde1005/"><img src="https://img.shields.io/badge/LinkedIn-Pratham%20Shinde-0A66C2?style=flat&logo=linkedin" alt="LinkedIn Badge" /></a>
   <a href="https://github.com/Pratham2137"><img src="https://img.shields.io/badge/GitHub-@Pratham2137-181717?style=flat&logo=github" alt="GitHub Badge" /></a>
   <!-- <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Live-4CAF50?style=flat&logo=google-chrome" alt="Portfolio" /></a> -->
@@ -65,12 +65,12 @@
 
 ### 📬 Contact
 Have an idea or want to team up?  
-Email: **prathamshinde2137@gmail.com**
+Email: **prathamshinde1005@gmail.com**
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pratham2137&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Pratham1005&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <!--
