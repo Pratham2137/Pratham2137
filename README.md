@@ -34,12 +34,16 @@
 ---
 
 ### 🛠️ Tech Stack
-**Core:** JavaScript (ES6+), Java, Python  
+**Core:** JavaScript (ES6+)
 **Frontend:** React, HTML5, CSS3, Bootstrap  
 **Backend:** Node.js, Express, REST APIs, Auth (JWT)  
-**Database:** (Add: MongoDB / PostgreSQL / MySQL)  
-**Tools:** Git, Linux, Figma, (Add: Docker / Postman / Cloud provider)  
+**Database:** (Add: MongoDB)  
+**Tools:** Git, Linux, Figma, (Add: Docker(Basic) / Postman / Cloud provider)  
 **Exploring:** Containerization, deployment automation, security hardening
+
+---
+### LeetCode Snapshot
+[![LeetCode Stats](https://leetcard.jacoblin.cool/pratham1005?theme=dark&font=Georama&ext=activity)](https://leetcode.com/u/Pratham1005/)
 
 ---
 
